@@ -45,7 +45,7 @@ class _OrderScreenState extends State<OrderScreen> {
                   mainAxisAlignment: MainAxisAlignment.spaceBetween,
                   children: [
                     Text(
-                      'Manage Orders',
+                      'Manage Order',
                       style: TextStyle(
                         fontSize: 22,
                         fontWeight: FontWeight.w700,
