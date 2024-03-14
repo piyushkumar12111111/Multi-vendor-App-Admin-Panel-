@@ -47,7 +47,7 @@ class _OrderScreenState extends State<OrderScreen> {
                     Text(
                       'Manage Order',
                       style: TextStyle(
-                        fontSize: 22,
+                        fontSize: 21,
                         fontWeight: FontWeight.w700,
                       ),
                     ),
