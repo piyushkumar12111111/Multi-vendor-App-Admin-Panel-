@@ -56,7 +56,7 @@ class _OrderWidgetState extends State<OrderWidget> {
                       width: 50,
                       child: Image.network(
                         vendor['productImage'][0],
-                        width: 50,
+                        width: 50  ,
                         height: 50,
                       ),
                     ),
