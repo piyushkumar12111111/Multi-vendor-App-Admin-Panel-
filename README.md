@@ -1,6 +1,6 @@
 # Multi_vendor_app_admin_panel
 
-A new Flutter project.
+A new Flutter project .
 
 ## Getting Started
 
